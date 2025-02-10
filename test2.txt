@@ -1,1 +1,3 @@
-hello
+wind
+planet
+ocean
